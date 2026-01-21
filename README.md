@@ -1,15 +1,3 @@
-# cautiouI can do it for you, but I can’t push to your GitHub without access. Pick one of these quick options and I’ll proceed:
-
-A) I guide you step‑by‑step in real time (web UI). I’ll wait while you follow each step and confirm — easiest if you want me to watch and guide.  
-B) I give exact git commands you can copy/paste (I’ll include any auth notes).  
-C) I prepare the final README file here (so you can paste it once) and give short web UI steps — fastest if you just want the file.
-
-Which do you want? Also confirm these two details so I do exactly what you expect:
-- Do you already have a repository named exactly: bridgefuturemarketing2018-ck? (yes / no)
-- If it exists, do you want to overwrite the current README (if any)? (yes / no)
-
-Below is the final README.md ready to paste. Tell me which option (A, B, or C) and answer the two questions above and I’ll continue.
-
 ````markdown name=README.md
 # Hi, I’m Edward 👋
 **bridgefuturemarketing2018-ck** · Senior Developer at Bridge Future Logistics Ltd  
